@@ -1,0 +1,15 @@
+/home/julio/Coding/C#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/julio/Coding/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/julio/Coding/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/julio/Coding/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/julio/Coding/C#/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/julio/Coding/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/julio/Coding/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/julio/Coding/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/julio/Coding/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/julio/Coding/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/julio/Coding/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/julio/Coding/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/julio/Coding/C#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/julio/Coding/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/julio/Coding/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
